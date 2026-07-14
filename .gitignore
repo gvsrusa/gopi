@@ -25,3 +25,9 @@ dist-ssr
 
 .next
 next-env.d.ts
+
+# Cloudflare / OpenNext
+.open-next
+.wrangler
+.dev.vars
+cloudflare-env.d.ts
