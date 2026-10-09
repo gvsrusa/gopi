@@ -17,7 +17,7 @@ export const metadata = {
   openGraph: {
     title: "Gopi Chand Gorantla · NDT Technician & CS Engineer",
     description: "ASNT Level 2 certified NDT technician with a Computer Science background.",
-    images: ["/gopi.webp"],
+    images: ["/gopi-full.webp"],
     type: "profile",
   },
 };
